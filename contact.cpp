@@ -5,5 +5,5 @@ int main(){
     cout<<"helow word"<<endl;
 
 
-    return 0;
+;lkj    return 0;
 }
