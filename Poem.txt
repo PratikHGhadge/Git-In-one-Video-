@@ -1,6 +1,6 @@
 The Rainbow
 purple 
-orange 
+orange  white
 pink  white
 green 
 violet
