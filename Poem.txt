@@ -6,4 +6,5 @@ green
 violet
 blue 
 red
+yellow
 this are the colors in rainbow
