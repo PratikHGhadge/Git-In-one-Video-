@@ -1,7 +1,7 @@
 The Rainbow
 purple 
 orange 
-pink 
+pink  white
 green 
 violet
 blue 
